@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aleksandar</h1>
-<h3 align="center">A Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aleksandar-code](https://github.com/aleksandar-code)
 
